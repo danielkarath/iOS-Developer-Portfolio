@@ -23,5 +23,24 @@ On the one hand I really enjoyed coding and designing the Swifter app as it turn
 * WidgetKit 🎨
 * StoreKit 💳
 * Optimized for iPhone and iPad 📱
+* MVVM 🔨
 
 [**Check out the Swifter Quiz App Repository here!**](https://github.com/danielkarath/SwifterQuiz)
+
+# Rick & Morty App
+
+The Rick & Morty app is designed to take full advantage of the Rick and Morty REST API, allowing users to fetch comprehensive information on characters, episodes, and locations from the popular TV series. Within the app, users have the flexibility to filter and search results, providing a tailored experience tailored to their preferences. The app is made with both UIKit and SwiftUI
+
+<p align="center">
+  <img width="200" alt="RickAndMortySearchMockup2" src="https://user-images.githubusercontent.com/26801446/236644866-528e83a1-3805-4e5e-904e-c1f2109772ac.png" />
+  <img width="200" alt="RickAndMortySearchMockup3" src="https://user-images.githubusercontent.com/26801446/236644871-0ba69f7c-6a6c-4ae5-85cf-8a8b45f315c3.png" />
+  <img width="200" alt="RickAndMortySearchMockup1" src="https://user-images.githubusercontent.com/26801446/236644873-3f733b10-ff2d-4a2f-bac0-c77d78e5ba4f.png" />
+</p>
+
+**Technologies**
+
+* SwiftUI and UIKit 💻
+* Networking - Rick & Morty API 📡
+* MVVM 🎨
+
+[**Check out the Rick & Morty Repository here!**](https://github.com/danielkarath/RickAndMortyIOS)
