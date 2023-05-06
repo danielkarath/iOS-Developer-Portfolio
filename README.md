@@ -11,6 +11,7 @@ The app consits of a super quick true or false game and a multiple choice quiz a
 On the one hand I really enjoyed coding and designing the Swifter app as it turned out to be a balanced blend between SwiftUI and UIKit. On the other hand the project helped me learn something new about Swift everyday while I was researching for the quiz questions.
 
 <p align="center">
+  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/26801446/236643592-1286afe7-cdf9-4f49-afc5-1deaa82b1566.gif"" />
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/26801446/236643176-48f15a4f-26b5-404b-a046-57b1127f09d4.png" />
   <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/26801446/236643177-5fccdcda-a3ad-4412-97b6-28207871ce6c.png" />
   <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/26801446/236643187-323d07ce-e21c-439a-8019-df8686715539.png" />
@@ -23,3 +24,4 @@ On the one hand I really enjoyed coding and designing the Swifter app as it turn
 * Core Data 💽
 * WidgetKit 🎨
 * StoreKit 💳
+* Optimized for iPhone and iPad 📱
