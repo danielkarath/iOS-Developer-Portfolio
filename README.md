@@ -4,7 +4,7 @@
 
 Hey there and welcome! 👋 I appreciate your interest in exploring my iOS projects. In this repository, you'll find a carefully curated selection of my recent work that showcases my skills and expertise. I'm currently seeking a junior developer position in Sweden, with a preference for opportunities in Stockholm 🇸🇪
 
-# Swifter Quiz App(https://github.com/danielkarath/SwifterQuiz)
+# Swifter Quiz App
 
 This project was a fun! So initially I wanted to create an app where I can practice Swift while on the bus. But as the I dived deeper into this project, added question after question I realized that this could be just as helpful to others as it is to me.
 The app consits of a super quick true or false game and a multiple choice quiz as well as a view where the user can review their progress, streak, bookmarked questions, etc. 
@@ -16,7 +16,6 @@ On the one hand I really enjoyed coding and designing the Swifter app as it turn
   <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/26801446/236643187-323d07ce-e21c-439a-8019-df8686715539.png" />
 </p>
 
-
 **Technologies**
 
 * SwiftUI and UIKit 💻
@@ -24,3 +23,5 @@ On the one hand I really enjoyed coding and designing the Swifter app as it turn
 * WidgetKit 🎨
 * StoreKit 💳
 * Optimized for iPhone and iPad 📱
+
+[**Check out the Swifter Quiz App Repository here!**](https://github.com/danielkarath/SwifterQuiz)
