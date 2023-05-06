@@ -2,7 +2,8 @@
 
 <img width="1145" alt="Github Banner" src="https://user-images.githubusercontent.com/26801446/236641476-ab43b374-0447-466b-88ae-64801049db31.png">
 
-Hey there and welcome! 👋 I appreciate your interest in exploring my iOS projects. In this repository, you'll find a carefully curated selection of my recent work that showcases my skills and expertise. I'm currently seeking a junior developer position in Sweden, with a preference for opportunities in Stockholm 🇸🇪
+Hey there and welcome! 👋 I appreciate your interest in exploring my iOS projects. In this repository, you'll find a carefully curated selection of my recent work that showcases my skills and expertise. 
+I'm currently seeking a junior developer position in Sweden, with a preference for opportunities in Stockholm 🇸🇪
 
 # Swifter Quiz App
 
@@ -44,3 +45,21 @@ The Rick & Morty app is designed to take full advantage of the Rick and Morty RE
 * MVVM 🎨
 
 [**Check out the Rick & Morty Repository here!**](https://github.com/danielkarath/RickAndMortyIOS)
+
+# Robo Chat
+
+RoboChat is a iOS chat bot application that utilizes OpenAI's GTP-3 engine. Besides it's main functionality this project was target towards users with visual impairment. The interface can be switched to a higher contrast UI and thanks to voice recognition typing is not needed when asking question from ChatGTP. Everything in the app is accessible, all UI elements've voice over enabled and with AVFoundation ChatGTP's responses are said out loud (if enabled) by the app.
+
+<p align="center">
+  <img width="200" alt="RoboChatMockup1" src="https://user-images.githubusercontent.com/26801446/236645421-1b66c2b8-d7d3-4319-b9d8-6dd1de4e5809.png" />
+  <img width="200" alt="RoboChatMockup2" src="https://user-images.githubusercontent.com/26801446/236645424-900a6d0b-416d-4068-a2e7-d4f056203021.png" />
+</p>
+
+**Technologies**
+
+* UIKit 💻
+* Networking - OpenAI API 📡
+* Voiceover & Speech recognition 🦻
+* MVVM 🎨
+
+[**Check out the Rick & Morty Repository here!**](https://github.com/danielkarath/RoboChat)
