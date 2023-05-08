@@ -21,7 +21,6 @@ On the one hand I really enjoyed coding and designing the Swifter app as it turn
 
 * SwiftUI and UIKit 💻
 * Core Data 💽
-* WidgetKit 🎨
 * StoreKit 💳
 * Optimized for iPhone and iPad 📱
 * MVVM 🔨
