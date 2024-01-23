@@ -62,25 +62,3 @@ RoboChat is a iOS chat bot application that utilizes OpenAI's GTP-3 engine. Besi
 * MVVM 🎨
 
 [**Check out the Rick & Morty Repository here!**](https://github.com/danielkarath/RoboChat)
-
-# Done app
-
-My first app on the App Store! I decided to build something that I'd use daily. My aim was to make this productivity app visually unique but elegant with carefully designed and easily understandable icons (so I don't need to over describe tasks as the icons would talk for themselves). I felt that the app can only be "fully mine" is to hand craft each and every icon, button, background image it has. 
-
-Regarding it's functionalities I wanted to hook it to Firebase so my data can be read and written on different devices. A well rounded taks app needs reminders so I added local notifications to it (and also push notifications out of curiosity). As someone who uses Siri's Suggestions and search functionalities mostly everyday I wanted to implement shortcuts too in my own app so it can truely be part of my daily apps. And lastly I implemented voice recognition so users can add tasks without typing a word.
-
-<p align="center">
-  <img width="200" alt="iPhone14ProMockup1" src="https://user-images.githubusercontent.com/26801446/236646031-dd156789-eb9b-4abc-b220-9dd65a525619.png" />
-  <img width="200" alt="iPhone14ProMockup4" src="https://user-images.githubusercontent.com/26801446/236646041-df92dc6b-2d89-4d1f-ba8d-14d9b7a1fa15.png" />
-  <img width="200" alt="iPhone14ProMockup2" src="https://user-images.githubusercontent.com/26801446/236646035-1db58afd-0f0a-4190-b122-b32dc43b6791.png" />
-</p>
-
-**Technologies**
-
-* UIKit 💻
-* CoreData 💽
-* Firebase 🔨
-* Push & local notifications 🔔
-* Voiceover 🦻
-
-[**Download it from the App Store**](https://apps.apple.com/us/app/done-to-do-list-planner/id6444041080)
